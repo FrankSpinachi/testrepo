@@ -1,2 +1,2 @@
 # testrepo
-IBM Data Science course
+IBM Data Science course from Coursera
